@@ -15,3 +15,6 @@ Follow the steps below to access the tryhackme network from your machine:
 4. Click **Download configuration file** and save the downloaded file somewhere in your file system.
 5. Open up **Terminal** and type in `sudo openvpn <location of the downloaded file>`.
 6. The connection should be complete when you read **Initialization Sequence Completed** toward the bottom of the openvpn output.
+
+Alternatively, you could use the tryhackme Attackbox which is an instance of Parrot OS (another Linux distribution for pentesters),  
+but I prefer to run everything through openvpn on live USB or boot up a VM on Virtualbox.
