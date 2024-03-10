@@ -1,3 +1,3 @@
 # Cybersecurity Notes and Write-ups.
 
-    - tryhackme => TryHackMe Room Writeups
+- tryhackme => TryHackMe Room Writeups
