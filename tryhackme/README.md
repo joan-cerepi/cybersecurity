@@ -1,6 +1,6 @@
 # TryHackMe Instructions
 
-All instructions are applicable to kali linux, since kali is the biggest linux distro for pentesters  
+All instructions are applicable to Kali Linux, since Kali is the biggest Linux distro for pentesters  
 and that is also what I use everyday.
 
 Before starting your work on any tryhackme rooms, you need to establish a VPN connection to the tryhackme network. This  
